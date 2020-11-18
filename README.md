@@ -1,7 +1,7 @@
 ### Java Script For EDOM
 Ini adalah script untuk mempermudah pengisian edom
 
-Cara penggunaan, masukan script dibawah ini di setiap halaman EDOM pada bagian CONSOLE inspect element lalu tekan ENTER
+Cara penggunaan, masukan script dibawah ini di setiap halaman penilaian EDOM pada bagian CONSOLE inspect element lalu tekan ENTER
 
 * Rate 5 semua :  
 ``` 
